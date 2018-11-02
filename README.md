@@ -16,7 +16,7 @@ This repository contains the Enterprise SMART Matrix application schema definiti
 npm install @smart-matrix/smart-schema-json
 ```
 
-This will install the package locally to your system for consumption in your project.
+* This will install the package locally to your system for consumption in your project.
 
 ### JSON Schema Usage
 
