@@ -1,0 +1,11 @@
+{
+  "name": "@smart-matrix/smart-schema-json",
+  "version": "0.0.1",
+  "private": false,
+  "scripts": {
+    "build-deploy": "npm version patch && npm run deploy",
+    "deploy": "npm publish --access public"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
